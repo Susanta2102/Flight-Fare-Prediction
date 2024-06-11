@@ -173,16 +173,18 @@ elif choice == 'Predict 🛫':
 
 elif choice == 'About Developer 👨‍💻':
     st.title('About the Developer')
+    st.image('https://raw.githubusercontent.com/Susanta2102/My-photo/main/Screenshot%202024-03-29%20130556.png')
     st.text('Name: Susanta Baidya')
     st.text('Education: Master in AI & ML from Indian Institute of Information Technology 🎓')
     st.markdown('[GitHub](https://github.com/Susanta2102)')
     st.markdown('[Kaggle](https://www.kaggle.com/susanta21)')
     st.markdown('[LinkedIn](https://www.linkedin.com/in/susanta-baidya-03436628a/)')
     st.markdown('Email: msa23009@iiitl.ac.in')
-    st.image('https://raw.githubusercontent.com/Susanta2102/My-photo/main/Screenshot%202024-03-29%20130556.png')
+    
 
 elif choice == 'About the Projects 📊':
     st.title('About the Projects')
+    st.image('https://wallpapers.com/images/featured/airport-w6v47yjhxcohsjgf.jpg')
     st.header('OVERVIEW:')
     st.text('A Streamlit app for predicting flight ticket price is deployed with the help of Machine Learning and Python programming language.')
     st.text('This app makes things easy when planning to travel.')
@@ -211,4 +213,4 @@ elif choice == 'About the Projects 📊':
     st.text('As the target value is price, which is a continous variable, algorithms like Linear Regression, KNeighbors Regression and Random Forest Regression were used.')
     st.text('Grid Search CV method was employed followed by cross validation method in order to find the best model parameters.')
     st.text('From the above method, Random Forest Regression was found out to be the best fit for this prediction with around 99% accurate.')
-    st.image('https://wallpapers.com/images/featured/airport-w6v47yjhxcohsjgf.jpg')
+   
