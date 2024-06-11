@@ -2,6 +2,8 @@ Link for the Streamlit App:- https://flight-ticket-price-predictor.streamlit.app
 
 App's Welcome Page:- 
 ![image](https://github.com/Rika290/Flight-Price-Prediction/assets/126352441/12fc9d26-ff44-442f-8e37-3ef697bea972)
+![Screenshot 2024-06-11 193013](https://github.com/Susanta2102/Flight-Fare-Prediction/assets/144701829/1e2f906a-cca9-4456-ad6d-3d890623788b)
+
 
 
 OVERVIEW:-
