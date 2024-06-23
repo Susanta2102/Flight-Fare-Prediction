@@ -1,5 +1,4 @@
-Link for the Streamlit App:- https://flightfare-prediction.streamlit.app/
-
+Link for the Streamlit App:- https://flight-fare-prediction-ix.streamlit.app/
 App's Welcome Page:- 
 ![Screenshot 2024-06-11 193013](https://github.com/Susanta2102/Flight-Fare-Prediction/assets/144701829/1e2f906a-cca9-4456-ad6d-3d890623788b)
 
